@@ -1,3 +1,9 @@
+/**
+ * Author : Synsoft Global
+ * Date : 20-07-2019
+ * Initialize react application
+ * Include top level dependencies
+*/
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
